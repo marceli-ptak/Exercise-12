@@ -1,1 +1,1 @@
-# This repo is created due to assessment purposes
+# This repo is created due to cursera assignment
